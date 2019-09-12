@@ -1,2 +1,3 @@
 # LoanDefault-Prediction-Model
-This is my final solution to the challenge by Arise. 
+I had to create 2 models < A neural Network > & < Random Forest >. 
+The code is well detailed. Enjoy :) 
